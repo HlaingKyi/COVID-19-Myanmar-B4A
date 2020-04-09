@@ -66,7 +66,7 @@ Sub Activity_Create(FirstTime As Boolean)
 
 
 	
-	ad.Initialize2("ad", "ca-app-pub-8396029216646817/1306538503", ad.SIZE_SMART_BANNER) 'ca-app-pub-8396029216646817/1306538503
+ad.Initialize2("ad", "ca-app-pub-3940256099942544/6300978111", ad.SIZE_SMART_BANNER) ' Test Ads
 	ad.LoadAd
 	Activity.AddView( ad, 0 , 100%y - nsoCode.adHeight ,100%x, nsoCode.adHeight)
 	
