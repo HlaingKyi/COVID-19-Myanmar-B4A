@@ -6,10 +6,13 @@
 # Need B4A Version 9.0 and Up
 
 # Libs used in this project :
- - AppCompat
- - B4APhotoPager
- - DesignSupport
- - JavaObject
+ - AppCompat - https://www.b4x.com/android/forum/threads/appcompat-make-material-design-apps-compatible-with-older-android-versions.48423
+ - B4APhotoPager - https://www.b4x.com/android/forum/threads/b4aphotopager-v3-85.40944
+ - DesignSupport - https://www.b4x.com/android/forum/threads/designsupport-additional-material-design-components.58893
+ - JavaObject - https://www.b4x.com/android/forum/threads/javaobject-library.34486
+ - UltimateListView - https://www.b4x.com/android/forum/threads/lib-chargeable-ultimatelistview.22736
+ - FirebaseNotifications
+ - FirebaseAnalytics
  - JSON
  - OkHttp
  - PhoneLib
@@ -17,7 +20,17 @@
  - RuntimePermissions
  - SQL
  - StringUtils
- - UltimateListView
  - WebViewExtras2
- - FirebaseNotifications
- - FirebaseAnalytics
+ 
+ ကျွန်တော့်ကိုယ်တိုင်ရေးသားထားတဲ့ COVID-19 Myanmar Android Application ရဲ့  B4A Project Source Code ပါ။ စိတ်ကြိုက်အသုံးပြုနိုင်ပါတယ်။ လိုအပ်တာတွေရှိရင်လည်း မှတ်ချက်တွေရေးပေးသွားနိုင်ပါတယ်။၁
+လိုအပ်တဲ့ Lib တွေ IDE ထဲမှာအကုန်ရှိထားရင် အခု project ကို တစ်ခါတည်း Compile လုပ် တစ်ခါတည်းကို အသုံးပြုနိုင်မှာပါ။
+  
+https://bit.ly/covid19mm
+ဒါကတော့ ကျွန်တော်ကိုယ်တိုင် Released လုပ်ထားတဲ့ COVID-19 App ပါ။
+နမူနာ App အဖြစ်သွင်းပြီးသုံးချင်လည်းရသလို၊ အမြဲတမ်းသုံးမယ်ဆိုရင်လည်း စိတ်မဆိုးပါဘူး။ :D
+  
+My Facebook Profile : https://facebook.com/mgkboy
+My Email : naysheinoo.dev@gmail.com
+ 
+
+ 
