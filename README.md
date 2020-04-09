@@ -22,7 +22,7 @@
  - WebViewExtras2
   
   
- [Unicode]
+#Unicode
  ကျွန်တော့်ကိုယ်တိုင်ရေးသားထားတဲ့ COVID-19 Myanmar Android Application ရဲ့  B4A Project Source Code ပါ။ စိတ်ကြိုက်အသုံးပြုနိုင်ပါတယ်။ လိုအပ်တာတွေရှိရင်လည်း မှတ်ချက်တွေရေးပေးသွားနိုင်ပါတယ်။၁
 လိုအပ်တဲ့ Lib တွေ IDE ထဲမှာအကုန်ရှိထားရင် အခု project ကို တစ်ခါတည်း Compile လုပ် တစ်ခါတည်းကို အသုံးပြုနိုင်မှာပါ။
   
@@ -34,7 +34,7 @@ My Facebook Profile : https://facebook.com/mgkboy
 My Email : naysheinoo.dev@gmail.com
  
  
- [Zawgyi]
+#Zawgyi
  ကၽြန္ေတာ့္ကိုယ္တိုင္ေရးသားထားတဲ့ COVID-19 Myanmar Android Application ရဲ႕  B4A Project Source Code ပါ။ စိတ္ႀကိဳက္အသံုးျပဳႏိုင္ပါတယ္။ လိုအပ္တာေတြရွိရင္လည္း မွတ္ခ်က္ေတြေရးေပးသြားႏိုင္ပါတယ္။၁
 လိုအပ္တ့ဲ Lib ေတြ IDE ထဲမွာအကုန္ရွိထားရင္ အခု project ကို တစ္ခါတည္း Compile လုပ္ တစ္ခါတည္းကို အသံုးျပဳႏိုင္မွာပါ။
   
