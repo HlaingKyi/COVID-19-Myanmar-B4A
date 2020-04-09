@@ -1,4 +1,4 @@
-# COVID-Myanmar-Github
+# COVID-Myanmar-B4A Project ( Android )
  B4A Project for COVID-19 Myanmar Android Application
  by Nay Shein Oo
 
